@@ -1,2 +1,2 @@
-# themagistv
+# themagistv.com
 Magis TV
